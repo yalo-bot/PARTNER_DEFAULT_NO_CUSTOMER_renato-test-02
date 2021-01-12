@@ -1,0 +1,11 @@
+{
+  "_id": "5ffc95711301a0554806019c",
+  "repoId": "PARTNER_DEFAULT_NO_CUSTOMER_renato-test-02",
+  "id": 2,
+  "type": "step",
+  "actions": null,
+  "reactions": null,
+  "triggers": null,
+  "__v": 0,
+  "name": "welcome"
+}
